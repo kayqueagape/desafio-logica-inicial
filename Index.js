@@ -34,6 +34,5 @@ else if (exp >= 10001) {
     elo= "Radiante"
 }
 
-console.log (`${elo}`)
 console.log(`O Herói de nome: ${nome} , está no nível ${elo}. `);
 
